@@ -14,7 +14,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/elghemary/farah/blob/main/logo/Github.svg" />
 <br />
 <br />
-
-[![elghemary's github stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
   
- [![elghemary's GitHub stats](https://github-readme-stats.vercel.app/api?username=elghemary)](https://github.com/anuraghazra/github-readme-stats)
+![El ghemary's GitHub stats](https://github-readme-stats.vercel.app/api?username=elghemary&show_icons=true&theme=dracula)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elghemary)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elghemary)](https://github.com/anuraghazra/github-readme-stats)
