@@ -1,4 +1,4 @@
-## Hey, I'm Farah :)
+## Hey :wave: I'm Farah !
 
 <a href="https://linkedin.com/in/farahelghemary" target="_blank"><img align="left" alt="elghemary | LinkedIn" width="22px" src="https://github.com/elghemary/farah/blob/main/logo/linkedin.svg" />
 <a href="https://instagram.com/mystemjourneyblog" target="_blank"><img align="left" alt="elghemary | Instagram" width="22px" src="https://github.com/elghemary/farah/blob/main/logo/Instagram.svg" />
@@ -19,5 +19,3 @@
 ![El ghemary's GitHub stats](https://github-readme-stats.vercel.app/api?username=elghemary&show_icons=true&theme=dracula)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elghemary&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
- 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elghemary&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
