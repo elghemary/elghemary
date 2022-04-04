@@ -12,7 +12,7 @@ I am currently a B.Sc. student and self-thaught programmer
 <br />  
 ### How to reach me
 <a href="https://linkedin.com/in/farahelghemary" target="_blank"><img align="left" alt="elghemary | LinkedIn" width="22px" src="https://github.com/elghemary/farah/blob/main/logo/linkedin.svg" />
-<a href="https://instagram.com/mystemjourneyblog" target="_blank"><img align="left" alt="elghemary | Instagram" width="22px" src="https://github.com/elghemary/farah/blob/main/logo/Instagram.svg" />
+<a href="https://instagram.com/steminist_blog" target="_blank"><img align="left" alt="elghemary | Instagram" width="22px" src="https://github.com/elghemary/farah/blob/main/logo/Instagram.svg" />
 <a href="https://twitter.com/elghemary1" target="_blank"><img align="left" alt="elghemary | Twitter" width="22px" src="https://github.com/elghemary/farah/blob/main/logo/twitter.svg" />
 <br />
 <br />
