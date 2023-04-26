@@ -1,5 +1,4 @@
 ## Hey :wave: I'm Farah !
-I am currently a B.Sc. student and self-thaught programmer
 ### Languages and Tools
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/elghemary/farah/blob/main/logo/Python.svg"/> </a>
 <a href="https://numpy.org/" target="_blank"> <img align="left" alt="NumPy" width="26px" src="https://github.com/elghemary/elghemary/blob/main/logo/numpy.png"/> </a>
