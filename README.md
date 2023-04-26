@@ -10,11 +10,6 @@ I am currently a B.Sc. student and self-thaught programmer
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://github.com/elghemary/farah/blob/main/logo/CSS3.svg" /></a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/elghemary/farah/blob/main/logo/Github.svg" />
 <br />  
-### How to reach me
-<a href="https://linkedin.com/in/farahelghemary" target="_blank"><img align="left" alt="elghemary | LinkedIn" width="22px" src="https://github.com/elghemary/farah/blob/main/logo/linkedin.svg" />
-<a href="https://instagram.com/elghemary1" target="_blank"><img align="left" alt="elghemary | Instagram" width="22px" src="https://github.com/elghemary/farah/blob/main/logo/Instagram.svg" />
-<a href="https://twitter.com/elghemary1" target="_blank"><img align="left" alt="elghemary | Twitter" width="22px" src="https://github.com/elghemary/farah/blob/main/logo/twitter.svg" />
-<br />
 <br />
   
 ![El ghemary's GitHub stats](https://github-readme-stats.vercel.app/api?username=elghemary&show_icons=true&theme=dracula)
