@@ -1,6 +1,5 @@
-
-👋 Hey there! I'm Farah.
-This account document a clumsy Journey of a rookie Mathematician in the World of programming.
+# 👋 Hey there!
+I'm Farah. This account document a clumsy Journey of a rookie Mathematician in the World of programming.
 
 ### Languages and Tools
 
