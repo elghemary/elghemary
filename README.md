@@ -1,6 +1,9 @@
-## Hey :wave: I'm Farah !
+
+👋 Hey there! I'm Farah.
+This account document a clumsy Journey of a rookie Mathematician in the World of programming.
+
 ### Languages and Tools
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/elghemary/farah/blob/main/logo/Python.svg"/> </a>
+<img alt="https://www.python.org" src="https://github.com/elghemary/farah/blob/main/logo/Python.svg" /> 
 <a href="https://numpy.org/" target="_blank"> <img align="left" alt="NumPy" width="26px" src="https://github.com/elghemary/elghemary/blob/main/logo/numpy.png"/> </a>
 <a href="https://matplotlib.org/" target="_blank"> <img align="left" alt="matpotlib" width="26px" src="https://github.com/elghemary/elghemary/blob/main/logo/matpotlib.png"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/elghemary/farah/blob/main/logo/C.svg"/> </a>
