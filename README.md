@@ -1,6 +1,5 @@
 # 👋 Hey there!
-I'm Farah. This account document a clumsy journey of a rookie Mathematician in the world of programming.
-
+I'm Farah. This account document my journey.
 ### Languages and Tools
 
 <img src="https://github.com/elghemary/elghemary/blob/main/logo/Arduino.svg" align="left" alt="arduino" width="26px" />
