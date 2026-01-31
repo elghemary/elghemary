@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=FACC15&center=true&vCenter=true&width=800&lines=Farah+El+Ghemary;Lead+Robotics+Mentor;Mathematics+and+Decision+Informatics+Student;Open+Science+Advocate" />
 </p>
@@ -6,6 +5,9 @@
 <p align="center">
   <strong>Mathematics • Robotics • STEAM Education • Social Impact</strong><br/>
   Curious generalist, building depth on purpose.
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elghemary&style=for-the-badge&color=facc15" />
 </p>
 
 ## 👋 Hi, I’m Farah
