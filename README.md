@@ -18,6 +18,11 @@ I design **robotics programs**, mentor **teachers & students**, and study **appl
 I’m driven by one question:  
 **How do we help people think better in a world where tools keep changing?**
 
+## 🚧 What I'm Working On
+
+**Building** — Interactive stories that explain complex STEM concepts for kids.  
+
+**Learning** — Automation, AI agents, and the math behind it all.  
 
 ## 🛠️ Technical Skills
 
