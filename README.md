@@ -1,28 +1,38 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=FACC15&center=true&vCenter=true&width=800&lines=Farah+El+Ghemary;Lead+Robotics+Mentor;Mathematics+and+Decision+Informatics+Student;Open+Science+Advocate" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=FACC15&center=true&vCenter=true&width=800&lines=Farah+El+Ghemary;Learning+Experience+Designer;Curriculum+%C2%B7+EdTech+%C2%B7+STEM;Building+what+I+design." />
 </p>
 
 <p align="center">
-  <strong>Mathematics • Robotics • STEAM Education • Social Impact</strong><br/>
-  Curious generalist, building depth on purpose.
+  <strong>EdTech • Robotics • STEAM Education • Social Impact
+  </strong><br/>
+  I design curricula that make complex STEM concepts click then build the tools to deliver them.
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=elghemary&style=for-the-badge&color=facc15" />
 </p>
 
-## 👋 Hi, I’m Farah
+---
 
-I work at the intersection of **technology, education, and community impact**.  
-I design **robotics programs**, mentor **teachers & students**, and study **applied mathematics** to better understand complex systems.
+## 👋 Hi, I'm Farah
 
-I’m driven by one question:  
-**How do we help people think better in a world where tools keep changing?**
+I work at the intersection of **curriculum design, educational technology, and STEM education**.
 
-## 🚧 What I'm Working On
+My background is in applied mathematics which shapes how I think about structuring knowledge, sequencing learning, and breaking down complexity into something teachable. At Mindcraft, I lead robotics programs: not just delivering sessions, but designing the curriculum frameworks and materials that make those sessions work.
 
-**Building** — Interactive stories that explain complex STEM concepts for kids.  
+On the side, I build interactive learning experiences from the ground up, web-based tools that make science accessible and engaging for young learners.
 
-**Learning** — Automation, AI agents, and the math behind it all.  
+> *"Learning isn't about mastering tools — it's about knowing how to think when the tools change."*
+
+---
+
+## 🚧 What I'm Building
+
+**Building:** Interactive stories that explain complex STEM concepts for kids.
+
+**Learning:** Automation, AI agents and the math behind it all.
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -33,7 +43,7 @@ I’m driven by one question:
 </tr>
 
 <tr>
-  <td><b>Programming </b></td>
+  <td><b>Programming</b></td>
   <td>
     <img src="https://img.shields.io/badge/C-0b0f17?style=for-the-badge&logo=c&logoColor=facc15"/>
     <img src="https://img.shields.io/badge/Python-0b0f17?style=for-the-badge&logo=python&logoColor=facc15"/>
@@ -116,6 +126,7 @@ I’m driven by one question:
 </tr>
 </table>
 
+---
 
 ## 📊 GitHub at a Glance
 
@@ -128,7 +139,9 @@ I’m driven by one question:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elghemary&bg_color=00000000&color=facc15&line=facc15&point=ffffff&hide_border=true" />
 </p>
 
-## 🤝 Let’s Connect
+---
+
+## 🤝 Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/farahelghemary/">
@@ -137,10 +150,9 @@ I’m driven by one question:
   <a href="https://www.instagram.com/elghemary1/">
     <img src="https://img.shields.io/badge/Instagram-0b0f17?style=for-the-badge&logo=instagram&logoColor=facc15"/>
   </a>
-</p>
-
-<p align="center">
-  <em>“Learning isn’t about mastering tools — it’s about knowing how to think when the tools change.”</em>
+  <a href="https://elghemary.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0b0f17?style=for-the-badge&logo=netlify&logoColor=facc15"/>
+  </a>
 </p>
 
 <p align="center">
