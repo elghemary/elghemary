@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=FACC15&center=true&vCenter=true&width=800&lines=Farah+El+Ghemary;Learning+Experience+Designer;Curriculum+%C2%B7+EdTech+%C2%B7+STEM;Building+what+I+design." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=FACC15&center=true&vCenter=true&width=800&lines=Farah+El+Ghemary;Learning+Experience+Designer;Building+what+I+design." />
 </p>
 
 <p align="center">
