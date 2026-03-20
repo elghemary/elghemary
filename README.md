@@ -29,15 +29,12 @@ On the side, I build interactive learning experiences from the ground up, web-ba
 
 **Learning:** Automation, AI agents and the math behind it all.
 
-
-## 🛠️ Technical Skills
-
+🛠️ Technical Skills
 <table>
 <tr>
   <th align="left">Category</th>
   <th align="left">Tools & Technologies</th>
 </tr>
-
 <tr>
   <td><b>Programming</b></td>
   <td>
@@ -47,7 +44,6 @@ On the side, I build interactive learning experiences from the ground up, web-ba
     <img src="https://img.shields.io/badge/CSS3-0b0f17?style=for-the-badge&logo=css3&logoColor=facc15"/>
   </td>
 </tr>
-
 <tr>
   <td><b>Data</b></td>
   <td>
@@ -60,7 +56,6 @@ On the side, I build interactive learning experiences from the ground up, web-ba
     <img src="https://img.shields.io/badge/SQL-0b0f17?style=for-the-badge&logo=postgresql&logoColor=facc15"/>
   </td>
 </tr>
-
 <tr>
   <td><b>Robotics & Electronics</b></td>
   <td>
@@ -76,19 +71,29 @@ On the side, I build interactive learning experiences from the ground up, web-ba
     <img src="https://img.shields.io/badge/Soldering%20Basics-0b0f17?style=for-the-badge&logo=probot&logoColor=facc15"/>
   </td>
 </tr>
-
 <tr>
   <td><b>Software & Dev Tools</b></td>
   <td>
     <img src="https://img.shields.io/badge/Microsoft%20Office-0b0f17?style=for-the-badge&logo=microsoftoffice&logoColor=facc15"/>
     <img src="https://img.shields.io/badge/Google%20Workspace-0b0f17?style=for-the-badge&logo=google&logoColor=facc15"/>
+    <img src="https://img.shields.io/badge/Google%20Apps%20Script-0b0f17?style=for-the-badge&logo=google&logoColor=facc15"/>
     <img src="https://img.shields.io/badge/Git-0b0f17?style=for-the-badge&logo=git&logoColor=facc15"/>
     <img src="https://img.shields.io/badge/GitHub-0b0f17?style=for-the-badge&logo=github&logoColor=facc15"/>
     <img src="https://img.shields.io/badge/VS%20Code-0b0f17?style=for-the-badge&logo=visualstudiocode&logoColor=facc15"/>
     <img src="https://img.shields.io/badge/Terminal%20%2F%20Bash-0b0f17?style=for-the-badge&logo=gnubash&logoColor=facc15"/>
   </td>
 </tr>
-
+<tr>
+  <td><b>Learning Design & Authoring</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Articulate%20Rise-0b0f17?style=for-the-badge&logo=articulatestoryline&logoColor=facc15"/>
+    <img src="https://img.shields.io/badge/Articulate%20Storyline-0b0f17?style=for-the-badge&logo=articulatestoryline&logoColor=facc15"/>
+    <img src="https://img.shields.io/badge/H5P-0b0f17?style=for-the-badge&logo=html5&logoColor=facc15"/>
+    <img src="https://img.shields.io/badge/Twine-0b0f17?style=for-the-badge&logo=twine&logoColor=facc15"/>
+    <img src="https://img.shields.io/badge/SCORM-0b0f17?style=for-the-badge&logo=bookstack&logoColor=facc15"/>
+    <img src="https://img.shields.io/badge/Moodle-0b0f17?style=for-the-badge&logo=moodle&logoColor=facc15"/>
+  </td>
+</tr>
 <tr>
   <td><b>Design & Fabrication</b></td>
   <td>
@@ -99,11 +104,19 @@ On the side, I build interactive learning experiences from the ground up, web-ba
     <img src="https://img.shields.io/badge/Blender-0b0f17?style=for-the-badge&logo=blender&logoColor=facc15"/>
   </td>
 </tr>
-
+<tr>
+  <td><b>Video & Media</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Camtasia-0b0f17?style=for-the-badge&logo=techsmith&logoColor=facc15"/>
+    <img src="https://img.shields.io/badge/Adobe%20Premiere-0b0f17?style=for-the-badge&logo=adobepremierepro&logoColor=facc15"/>
+    <img src="https://img.shields.io/badge/Adobe%20Audition-0b0f17?style=for-the-badge&logo=adobeaudition&logoColor=facc15"/>
+  </td>
+</tr>
 <tr>
   <td><b>Mathematics & Modeling</b></td>
   <td>
     <img src="https://img.shields.io/badge/NumPy-0b0f17?style=for-the-badge&logo=numpy&logoColor=facc15"/>
+    <img src="https://img.shields.io/badge/Pandas-0b0f17?style=for-the-badge&logo=pandas&logoColor=facc15"/>
     <img src="https://img.shields.io/badge/SciPy-0b0f17?style=for-the-badge&logo=scipy&logoColor=facc15"/>
     <img src="https://img.shields.io/badge/MATLAB-0b0f17?style=for-the-badge&logo=mathworks&logoColor=facc15"/>
     <img src="https://img.shields.io/badge/R-0b0f17?style=for-the-badge&logo=r&logoColor=facc15"/>
@@ -111,7 +124,22 @@ On the side, I build interactive learning experiences from the ground up, web-ba
     <img src="https://img.shields.io/badge/Wolfram%20Mathematica-0b0f17?style=for-the-badge&logo=wolfram&logoColor=facc15"/>
   </td>
 </tr>
-
+<tr>
+  <td><b>AI & Machine Learning</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Hugging%20Face-0b0f17?style=for-the-badge&logo=huggingface&logoColor=facc15"/>
+    <img src="https://img.shields.io/badge/OpenAI%20API-0b0f17?style=for-the-badge&logo=openai&logoColor=facc15"/>
+    <img src="https://img.shields.io/badge/Scikit--Learn-0b0f17?style=for-the-badge&logo=scikitlearn&logoColor=facc15"/>
+  </td>
+</tr>
+<tr>
+  <td><b>Automation & Workflow</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/n8n-0b0f17?style=for-the-badge&logo=n8n&logoColor=facc15"/>
+    <img src="https://img.shields.io/badge/Google%20Apps%20Script-0b0f17?style=for-the-badge&logo=google&logoColor=facc15"/>
+    <img src="https://img.shields.io/badge/Zapier-0b0f17?style=for-the-badge&logo=zapier&logoColor=facc15"/>
+  </td>
+</tr>
 <tr>
   <td><b>Documentation & Writing</b></td>
   <td>
