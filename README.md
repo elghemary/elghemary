@@ -12,8 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=elghemary&style=for-the-badge&color=facc15" />
 </p>
 
----
-
 ## 👋 Hi, I'm Farah
 
 I work at the intersection of **curriculum design, educational technology, and STEM education**.
@@ -24,7 +22,6 @@ On the side, I build interactive learning experiences from the ground up, web-ba
 
 > *"Learning isn't about mastering tools — it's about knowing how to think when the tools change."*
 
----
 
 ## 🚧 What I'm Building
 
@@ -32,7 +29,6 @@ On the side, I build interactive learning experiences from the ground up, web-ba
 
 **Learning:** Automation, AI agents and the math behind it all.
 
----
 
 ## 🛠️ Technical Skills
 
@@ -126,7 +122,6 @@ On the side, I build interactive learning experiences from the ground up, web-ba
 </tr>
 </table>
 
----
 
 ## 📊 GitHub at a Glance
 
@@ -138,8 +133,6 @@ On the side, I build interactive learning experiences from the ground up, web-ba
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elghemary&bg_color=00000000&color=facc15&line=facc15&point=ffffff&hide_border=true" />
 </p>
-
----
 
 ## 🤝 Let's Connect
 
